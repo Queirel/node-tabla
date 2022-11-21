@@ -1,0 +1,2 @@
+#Informacion
+Salida del programa.
